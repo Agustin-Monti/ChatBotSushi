@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Sushi de Salmón",
+      "price": 150,
+      "description": "Salmón fresco con arroz y alga nori",
+      "availability": true
+    },
+    {
+      "name": "Sushi de Atún",
+      "price": 180,
+      "description": "Atún fresco con arroz y alga nori",
+      "availability": true
+    },
+    {
+      "name": "Roll Vegetariano",
+      "price": 120,
+      "description": "Pepino, aguacate y zanahoria envueltos en alga nori",
+      "availability": true
+    }
+  ]
+  
