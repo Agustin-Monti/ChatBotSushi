@@ -72,6 +72,9 @@ const Chatbot = () => {
     // Verificar horarios
     if (input.toLowerCase().includes('horarios')) {
       botResponse = 'Nuestro horario de atención es de lunes a viernes, de 18:00 a 23:30.';
+    }
+    else if(input.toLowerCase().includes('ubicacion')) {
+      botResponse = 'Estamos ubicados en Calle Principal 123, Ciudad Sushi.';
     } 
     // Verificar si está abierto
     else if (input.toLowerCase().includes('abierto')) {
